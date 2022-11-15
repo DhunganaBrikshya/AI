@@ -14,35 +14,46 @@
   
   
   # AI Perspectives:
-  Acting Humanly: 
+  # Acting Humanly: 
   There is a turing test performed to show the perspective of acting humanly. In this test, Human interrogates entity via teletype for 5 minutes. If,
   after 5 minutes, human cannot tell whether entity is human or machine, then the entity must be counted as intelligent.
   
-  Thinking Humanly:
+  # Thinking Humanly:
   Thinking humanly means trying to understand and model how the human mind works. There are (at least) two possible routes that humans use to find the
   answer to a question: i) We reason about it to find the answer. This is called “introspection”. ii) We conduct experiments to find the answer, drawing
   upon scientific techniques to conduct controlled experiments and measure change. The field of Cognitive Science mainly focuses on modeling how people
   think.
   
-  Thinking Rationally:
+  # Thinking Rationally:
   It is the process trying to understand how people actually think. It uses symbolic logic to capture the laws of rational thought as symbols that can be
   manipulated. It involves manipulating the symbols according to well-defined rules, kind of like algebra. The result is an idealized model of human
   reasoning. This approach is attractive to theoretists, modeling how humans should think and reason in an ideal world.
   
-  Acting Rationally:
+  # Acting Rationally:
   Acting rationally means acting to achieve one’s goals, given one’s beliefs or understanding about the world. An agent is a system that perceives an
   environment and acts within that environment. An intelligent agent is one that acts rationally with respect to its goals. For example, an agent that is
   designed to play a game should make moves that increase its chances of winning the game.
   
   
   # History of AI
-  It was first introduced in 1956. John McCarthy coined the term ‘artificial intelligence’ and had the first AI conference. 
+  
+  In 1943, the Foundations for neural networks laid.
+  
+  In 1950, Alan Turing introduced Turing Test for evaluation of intelligence and published Computing Machinery and Intelligence. Claude Shannon published
+  Detailed Analysis of Chess Playing as a search.
+  
+  AI was first introduced In 1956. John McCarthy coined the term ‘artificial intelligence’ and had the first AI conference. 
+  
   Then in 1969, Shakey was the first general-purpose mobile robot built. It is now able to do things with a purpose vs. just a list of instructions.
+  
   In 1997, Supercomputer ‘Deep Blue’ was designed, and it defeated the world champion chess player in a match. It was a massive milestone by IBM to create
   this large computer.
+  
   In 2002, The first commercially successful robotic vacuum cleaner was created. 
+  
   In between 2005 to 2019, speech recognition, robotic process automation (RPA), a dancing robot, smart homes, and other innovations make their
   debut.
+  
   2020 and present, Baidu releases the LinearFold AI algorithm to medical and scientific and medical teams developing a vaccine during the early stages of
   the SARS CoV-2 (COVID-19) pandemic. The algorithm can predict the RNA sequence of the virus in only 27 seconds, which is 120 times faster than other
   methods. 
@@ -50,7 +61,8 @@
   
   
   # Foundations of AI:
-  Philosophy: 
+  
+  # Philosophy: 
   It takes multiple tasks from philosophy. 
   Can formal rules be used to draw valid conclusion?
   Aristotle (312 – 322 B.C ) was the first to formulate the precise set of laws governing the rational parts of the mind. He developed an informal system
@@ -67,15 +79,14 @@
   Philosophy tries to answer the connection between knowledge and action. This question is vital to AI because intelligence requires action as well as
   reasoning.
   
-  Mathematics:
+  # Mathematics:
   Philosophers staked out some of the fundamental ideals of AI, but the leap to formal science required a level of mathematical formalization in their
   fundamental areas:
   What are the formal rules to draw valid conclusions?
   What can be compute?
   How do we reason with uncertain information?
   
-  
-  Economics:
+  # Economics:
   AI takes the following ideas from economics.
   
   How should we make decisions so as to maximize payoff (utility)?
@@ -89,8 +100,7 @@
   How should we do this when the payoff may be far in the future?
   For the most part economist did not address this question. This topic was pursed in the field of operation research (OR).
   
-  
-  Psychology:
+  # Psychology:
   Psychology tries to answer the following question:
   How do humans and animals think and act? Modern science proves that computer models could be used to address the psychology of memory, language and
   logical thinking respectively. It is now common view among psychologist that "a cognitive theory should be like a computer program."
@@ -106,34 +116,24 @@
   Control theory and cybernetics deals with the self controlling machine. Modern control theory has its goal to design the system that maximize an
   objective function overtime. This roughly match the AI view: designing system that behave optimally.
   
-  
-  Linguistics:
+  # Linguistics:
   Language is directly related to thought. Modern linguistics and AI, were born at about the same time and grew up together, intersecting in a hybrid
   field called computational linguistics or natural language processing.
   
-  
-  Mathematics:
-  - What are the formal rules to draw valid conclusions?
-  - What can be computed?
-  - How do we reason with uncertain information?
-  
-  
-  Neuroscience:
+  # Neuroscience:
   - How do brains process information?
   Neuroscience is the study of the nervous system, especially the brain. We are still a long way from understanding how cognitive processes actually work.
   The truly amazing conclusion is that a collection of simple cells can lead to thought, action, and consciousness or, brains cause minds.The only real
   alternative theory is mysticism: that minds operate in some mystical realm that is beyond physical science.
   
-  
-  Computer Science:
+  # Computer Science:
   Operational computer and operational programmable computer
   - How can we build an efficient computer?
   AI has pioneered many ideas that have made their way back to mainstream computer science, including time sharing, interactive interpreters, personal
   computers with windows and mice, rapid development environments, the linked list data type, automatic storage management, and key concepts of symbolic,
   functional, declarative, and object-oriented programming.
   
-  
-  Computer Theory:
+  # Computer Theory:
   How can artifacts operate under their own control?
   - control Theory, Homeostatic and objective function.
   
