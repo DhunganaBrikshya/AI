@@ -138,6 +138,7 @@
   - control Theory, Homeostatic and objective function.
   
   
+  
   # Applications of AI
   There are multiple sectors where AI has been used. Some of them are:
   
