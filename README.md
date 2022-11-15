@@ -1,5 +1,5 @@
 # AI
-* Intelligence, Artificial Intelligence (AI): 
+ Artificial Intelligence (AI): 
  Artificial intelligence(AI) refers to systems or machines that mimic human intelligence to perform tasks and can iteratively improve themselves based on
  the information they collect. It miics the problem-solving and decision-making capabilities of the human mind. AI is much more about the process and the
  capability for superpowered thinking and data analysis than it is about any particular format or function. Although AI brings up images of high-
@@ -105,6 +105,8 @@
   Linguistics:
   Language is directly related to thought. Modern linguistics and AI, were born at about the same time and grew up together, intersecting in a hybrid
   field called computational linguistics or natural language processing.
+  
+  
   
   
   
