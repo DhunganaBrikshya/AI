@@ -6,10 +6,12 @@
  functioning, human-like robots taking over the world, AI isn’t intended to replace humans. It’s intended to significantly enhance human capabilities and 
  contributions. That makes it a very valuable business asset.
   
-  AI Perspectives: acting and thinking humanly, acting and thinking rationally:
+  
+  
+  AI Perspectives:
   Acting Humanly: 
-  There is a turing test performed to show the perspective of acting humanly. In this test, Human interrogates entity via teletype for 5 minutes. If, after
-  5 minutes, human cannot tell whether entity is human or machine, then the entity must be counted as intelligent.
+  There is a turing test performed to show the perspective of acting humanly. In this test, Human interrogates entity via teletype for 5 minutes. If,
+  after 5 minutes, human cannot tell whether entity is human or machine, then the entity must be counted as intelligent.
   
   Thinking Humanly:
   Thinking humanly means trying to understand and model how the human mind works. There are (at least) two possible routes that humans use to find the
@@ -39,6 +41,7 @@
   2020 and present, Baidu releases the LinearFold AI algorithm to medical and scientific and medical teams developing a vaccine during the early stages of
   the SARS CoV-2 (COVID-19) pandemic. The algorithm can predict the RNA sequence of the virus in only 27 seconds, which is 120 times faster than other
   methods. 
+  
   
   
   Foundations of AI:
